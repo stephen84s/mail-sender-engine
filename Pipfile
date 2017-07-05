@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+
+[packages]
+Flask = "==0.12.2"
+Flask-Cors = "*"
+requests = "==2.18.1"
+
+[dev-packages]
+pylint = "*"
+ipdb = "*"
+ipython = "*"
+autopep8 = "*"
+
